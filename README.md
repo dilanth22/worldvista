@@ -19,3 +19,6 @@ Editorial place names are manually compiled; some titles can be ambiguous or cha
 - Search tabs labelled Places and Travel Guide are visual categories, not independent search modes; the input searches countries.
 - No booking or payment integration is included.
 - Run `npm test` and `npm run build`; Cloudflare Pages preset None, build command `npm run build`, output `dist`, root blank.
+
+
+V5.1: Refined cinematic hero and locally bundled scenic artwork. Cloudflare Pages build command `npm run build`, output `dist`.

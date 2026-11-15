@@ -2,3 +2,6 @@ import {mkdir,copyFile} from 'node:fs/promises';
 await mkdir('dist',{recursive:true});
 for(const f of ['index.html','styles.css','app.js','countries.json','curated.json','_headers'])await copyFile(f,`dist/${f}`);
 console.log('WorldVista V5 Cloudflare Pages build completed');
+
+await mkdir('dist/assets',{recursive:true});
+await copyFile('assets/santorini-cinematic.webp','dist/assets/santorini-cinematic.webp');
