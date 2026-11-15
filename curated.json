@@ -1,266 +1,82 @@
-{
-  "LK": [
-    "Sigiriya",
-    "Temple of the Tooth",
-    "Nine Arch Bridge",
-    "Yala National Park",
-    "Galle Fort",
-    "Adam’s Peak",
-    "Horton Plains National Park",
-    "Dambulla cave temple",
-    "Polonnaruwa",
-    "Anuradhapura",
-    "Mirissa",
-    "Unawatuna",
-    "Ella, Sri Lanka",
-    "Nuwara Eliya",
-    "Udawalawe National Park",
-    "Sinharaja Forest Reserve",
-    "Pinnawala Elephant Orphanage",
-    "Arugam Bay",
-    "Trincomalee",
-    "Jaffna Fort"
-  ],
-  "JP": [
-    "Mount Fuji",
-    "Fushimi Inari-taisha",
-    "Kinkaku-ji",
-    "Arashiyama",
-    "Kiyomizu-dera",
-    "Tokyo Skytree",
-    "Sensō-ji",
-    "Himeji Castle",
-    "Hiroshima Peace Memorial",
-    "Itsukushima Shrine",
-    "Nara Park",
-    "Osaka Castle",
-    "Dōtonbori",
-    "Shinjuku Gyo-en",
-    "Lake Kawaguchi",
-    "Kenroku-en",
-    "Nikkō Tōshō-gū",
-    "Hakone",
-    "Shirakawa-gō",
-    "Kumano Kodō"
-  ],
-  "IT": [
-    "Colosseum",
-    "Trevi Fountain",
-    "Pantheon, Rome",
-    "Roman Forum",
-    "Vatican Museums",
-    "St. Peter’s Basilica",
-    "Florence Cathedral",
-    "Ponte Vecchio",
-    "Leaning Tower of Pisa",
-    "Cinque Terre",
-    "Amalfi Coast",
-    "Pompeii",
-    "Grand Canal (Venice)",
-    "St. Mark’s Basilica",
-    "Lake Como",
-    "Milan Cathedral",
-    "Uffizi Gallery",
-    "Capri",
-    "Mount Etna",
-    "Dolomites"
-  ],
-  "FR": [
-    "Eiffel Tower",
-    "Louvre",
-    "Palace of Versailles",
-    "Mont Saint-Michel",
-    "Arc de Triomphe",
-    "Notre-Dame de Paris",
-    "Sainte-Chapelle",
-    "Musée d’Orsay",
-    "Sacré-Cœur, Paris",
-    "French Riviera",
-    "Pont du Gard",
-    "Palais des Papes",
-    "Château de Chambord",
-    "Carcassonne",
-    "Gorges du Verdon",
-    "Calanques National Park",
-    "Dune of Pilat",
-    "Chamonix",
-    "Annecy",
-    "Strasbourg Cathedral"
-  ],
-  "CH": [
-    "Matterhorn",
-    "Jungfraujoch",
-    "Lake Geneva",
-    "Lake Lucerne",
-    "Chapel Bridge",
-    "Rhine Falls",
-    "Aletsch Glacier",
-    "Zermatt",
-    "Interlaken",
-    "Lauterbrunnen",
-    "Bern Old Town",
-    "Chillon Castle",
-    "Mount Pilatus",
-    "Mount Rigi",
-    "Lake Brienz",
-    "Grindelwald",
-    "St. Moritz",
-    "Swiss National Park",
-    "Titlis",
-    "Oeschinen Lake"
-  ],
-  "AU": [
-    "Sydney Opera House",
-    "Great Barrier Reef",
-    "Uluru",
-    "Sydney Harbour Bridge",
-    "Bondi Beach",
-    "Twelve Apostles (Victoria)",
-    "Blue Mountains National Park",
-    "Kakadu National Park",
-    "Daintree Rainforest",
-    "Great Ocean Road",
-    "Kangaroo Island",
-    "Whitsunday Islands",
-    "Cradle Mountain",
-    "Rottnest Island",
-    "Fraser Island",
-    "Royal Botanic Garden, Sydney",
-    "Melbourne Cricket Ground",
-    "Taronga Zoo",
-    "Kings Canyon (Northern Territory)",
-    "Ningaloo Reef"
-  ],
-  "GB": [
-    "Big Ben",
-    "Tower of London",
-    "Buckingham Palace",
-    "British Museum",
-    "Stonehenge",
-    "Edinburgh Castle",
-    "Lake District",
-    "Tower Bridge",
-    "Westminster Abbey",
-    "Windsor Castle",
-    "Roman Baths (Bath)",
-    "York Minster",
-    "Giant’s Causeway",
-    "Snowdonia",
-    "Loch Ness",
-    "St Paul’s Cathedral",
-    "Natural History Museum, London",
-    "Royal Botanic Gardens, Kew",
-    "Blenheim Palace",
-    "White Cliffs of Dover"
-  ],
-  "US": [
-    "Grand Canyon",
-    "Statue of Liberty",
-    "Yellowstone National Park",
-    "Yosemite National Park",
-    "Golden Gate Bridge",
-    "Central Park",
-    "Niagara Falls",
-    "Zion National Park",
-    "Bryce Canyon National Park",
-    "Mount Rushmore",
-    "Walt Disney World",
-    "Times Square",
-    "Glacier National Park (U.S.)",
-    "Arches National Park",
-    "Hawaiʻi Volcanoes National Park",
-    "Antelope Canyon",
-    "Monument Valley",
-    "Acadia National Park",
-    "Rocky Mountain National Park",
-    "Everglades National Park"
-  ],
-  "NZ": [
-    "Milford Sound",
-    "Aoraki / Mount Cook",
-    "Lake Tekapo",
-    "Hobbiton Movie Set",
-    "Tongariro National Park",
-    "Waitomo Glowworm Caves",
-    "Queenstown, New Zealand",
-    "Rotorua",
-    "Abel Tasman National Park",
-    "Franz Josef Glacier",
-    "Wai-O-Tapu",
-    "Bay of Islands",
-    "Mount Taranaki",
-    "Lake Wakatipu",
-    "Cathedral Cove",
-    "Fox Glacier",
-    "Kaikōura",
-    "Piha",
-    "Lake Pukaki",
-    "Wellington Cable Car"
-  ],
-  "TH": [
-    "Grand Palace",
-    "Wat Arun",
-    "Wat Pho",
-    "Phi Phi Islands",
-    "Railay Beach",
-    "Ayutthaya Historical Park",
-    "Doi Inthanon",
-    "Wat Phra That Doi Suthep",
-    "Khao Sok National Park",
-    "Similan Islands",
-    "Chatuchak Weekend Market",
-    "Erawan National Park",
-    "Koh Samui",
-    "Koh Tao",
-    "Phang Nga Bay",
-    "Wat Rong Khun",
-    "Sukhothai Historical Park",
-    "Lumphini Park",
-    "Patong Beach",
-    "Khao Yai National Park"
-  ],
-  "MV": [
-    "Malé",
-    "Hulhumalé",
-    "Maafushi",
-    "Ari Atoll",
-    "Baa Atoll",
-    "Hanifaru Bay",
-    "Addu Atoll",
-    "Vaadhoo",
-    "Thulusdhoo",
-    "Dhigurah",
-    "Fulhadhoo",
-    "Ukulhas",
-    "Rasdhoo",
-    "Fuvahmulah",
-    "Gulhi",
-    "Dhangethi",
-    "Huraa",
-    "Villingili",
-    "Alimatha",
-    "Banana Reef"
-  ],
-  "GR": [
-    "Acropolis of Athens",
-    "Parthenon",
-    "Santorini",
-    "Meteora",
-    "Delphi",
-    "Mykonos",
-    "Knossos",
-    "Rhodes Old Town",
-    "Navagio Beach",
-    "Mount Olympus",
-    "Corfu",
-    "Olympia, Greece",
-    "Temple of Poseidon at Sounion",
-    "Samaria Gorge",
-    "Nafplio",
-    "Epidaurus",
-    "Elafonisi",
-    "Lindos",
-    "Monemvasia",
-    "Balos Lagoon"
-  ]
-}
+[
+  {
+    "name": "Bali",
+    "country": "Indonesia"
+  },
+  {
+    "name": "Maldives",
+    "country": "Maldives"
+  },
+  {
+    "name": "Swiss Alps",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Santorini",
+    "country": "Greece"
+  },
+  {
+    "name": "Bora Bora",
+    "country": "French Polynesia"
+  },
+  {
+    "name": "Kyoto",
+    "country": "Japan"
+  },
+  {
+    "name": "Sigiriya",
+    "country": "Sri Lanka"
+  },
+  {
+    "name": "Paris",
+    "country": "France"
+  },
+  {
+    "name": "Rome",
+    "country": "Italy"
+  },
+  {
+    "name": "Queenstown",
+    "country": "New Zealand"
+  },
+  {
+    "name": "Bangkok",
+    "country": "Thailand"
+  },
+  {
+    "name": "Sydney",
+    "country": "Australia"
+  },
+  {
+    "name": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "name": "New York",
+    "country": "United States"
+  },
+  {
+    "name": "Reykjav\u00edk",
+    "country": "Iceland"
+  },
+  {
+    "name": "Amalfi Coast",
+    "country": "Italy"
+  },
+  {
+    "name": "Banff",
+    "country": "Canada"
+  },
+  {
+    "name": "Tokyo",
+    "country": "Japan"
+  },
+  {
+    "name": "Galle Fort",
+    "country": "Sri Lanka"
+  },
+  {
+    "name": "Ubud",
+    "country": "Indonesia"
+  }
+]

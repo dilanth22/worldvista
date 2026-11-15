@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://worldvista.pages.dev/sitemap.xml
